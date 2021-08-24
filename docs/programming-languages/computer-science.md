@@ -8,6 +8,7 @@ sidebar_label: Computer Science
 
 - [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 - [C ile Veri Yapıları - BilgisayarKavramlari](https://www.youtube.com/playlist?list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT)
+- [thedshandbook](https://www.thedshandbook.com/)
 
 ## Intermediate
 
